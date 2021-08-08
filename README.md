@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @dharshinidharshana.
-- 👀 I’m interested in GitHub..
+- 👀 I’m interested to learn about GitHub.
 - 🌱 I’m currently learning how to work with GitHub.
-- 💞️ I’m looking to collaborate on work with GitHub.
-- 📫 How to reach me {via email id}
+- 💞️ I’m looking to collaborate on team and individual working with GitHub 
+
 
 <!---
 dharshinidharshana/dharshinidharshana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
